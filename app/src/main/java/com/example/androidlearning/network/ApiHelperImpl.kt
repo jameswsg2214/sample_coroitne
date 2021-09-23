@@ -1,10 +1,9 @@
-package com.example.androidlearning.Network
+package com.example.androidlearning.network
 
 import com.example.androidlearning.model.ClinicalNotesResponse
 import com.example.androidlearning.model.RequestPayload
 import com.example.androidlearning.model.ResponsePayload
 import retrofit2.Response
-import javax.inject.Inject
 
 class ApiHelperImpl  (private val apiInterface: ApiInterface) : ApiHelper {
 

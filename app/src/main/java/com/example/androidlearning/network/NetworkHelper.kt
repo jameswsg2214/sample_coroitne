@@ -1,9 +1,8 @@
-package com.example.androidlearning.Network
+package com.example.androidlearning.network
 
 import android.content.Context
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
-import android.os.Build
 
 
 class NetworkHelper ( private val context: Context) {

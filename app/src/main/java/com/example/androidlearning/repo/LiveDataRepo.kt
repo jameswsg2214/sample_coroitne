@@ -1,6 +1,6 @@
 package com.example.androidlearning.repo
 
-import com.example.androidlearning.Network.ApiInterface
+import com.example.androidlearning.network.ApiInterface
 import com.example.androidlearning.Room.AppDatabase
 import com.example.androidlearning.model.RequestPayload
 import com.example.androidlearning.model.RequestPayloadItem

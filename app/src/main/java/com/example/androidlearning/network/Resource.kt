@@ -1,4 +1,4 @@
-package com.example.androidlearning.Network
+package com.example.androidlearning.network
 
 data class Resource<out T>(val status: Status, val data: T?, val message: String?) {
 

@@ -1,6 +1,5 @@
-package com.example.androidlearning.Network
+package com.example.androidlearning.network
 
-import com.example.androidlearning.BuildConfig
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit

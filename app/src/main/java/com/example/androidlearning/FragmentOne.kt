@@ -10,8 +10,8 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProviders
-import com.example.androidlearning.Network.ApiClient
-import com.example.androidlearning.Network.Resource
+import com.example.androidlearning.network.ApiClient
+import com.example.androidlearning.network.Resource
 import com.example.androidlearning.model.RequestPayload
 import com.example.androidlearning.model.RequestPayloadItem
 import kotlinx.android.synthetic.main.fargment_one.*

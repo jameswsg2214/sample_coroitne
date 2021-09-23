@@ -1,13 +1,9 @@
-package com.example.androidlearning.Network
+package com.example.androidlearning.network
 
 import com.example.androidlearning.model.ClinicalNotesResponse
 import com.example.androidlearning.model.RequestPayload
 import com.example.androidlearning.model.ResponsePayload
-import com.example.androidlearning.model.UserModel
-import dagger.hilt.android.scopes.ActivityRetainedScoped
-import dagger.hilt.android.scopes.FragmentScoped
 import retrofit2.Response
-import javax.inject.Inject
 
 interface ApiHelper {
 

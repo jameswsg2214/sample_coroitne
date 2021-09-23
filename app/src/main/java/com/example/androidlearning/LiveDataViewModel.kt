@@ -4,7 +4,7 @@ import android.content.Context
 import android.util.Log
 import androidx.lifecycle.*
 import androidx.work.*
-import com.example.androidlearning.Network.*
+import com.example.androidlearning.network.*
 import com.example.androidlearning.model.ClinicalNotesResponse
 import com.example.androidlearning.model.RequestPayload
 import com.example.androidlearning.model.ResponsePayload

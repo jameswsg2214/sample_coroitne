@@ -3,7 +3,7 @@ package com.example.androidlearning
 import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.example.androidlearning.Network.ApiInterface
+import com.example.androidlearning.network.ApiInterface
 import com.example.androidlearning.Room.AppDatabase
 import com.example.androidlearning.repo.LiveDataRepo
 
